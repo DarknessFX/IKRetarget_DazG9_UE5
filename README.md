@@ -51,7 +51,7 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 - Delete ABP_Gen9_PostProcess.
 - Open ABP_Gen9 > AnimGraph > Control Rig node:<br/>
   Replace Control Rig Class with SCR_Gen9_BasicFootIK ([📷](.git_img/25_ABP_CR.png)).<br/>
-  Open Main States > Land node, link MM_Land directionly to Output and disable Looping in Details panel ([📷](.git_img/26_ABP_FallLoop.png)).<br/>
+  Open Main States > Land node, link MM_Land directly to Output and disable Looping in Details panel ([📷](.git_img/26_ABP_FallLoop.png)).<br/>
   Open Main States > Jump node, select MM_Jump node and disable Looping in Details panel ([📷](.git_img/27_ABP_JumpLoop.png)).
 - Open Content\ThirdPerson\Brlueprints\BP_ThirdPersonCharacter, go to Viewport tab, Details panel: Change Skeletal Mesh to SKM_Gen9 and Anim Class to ABP_Gen9 ([📷](.git_img/28_BPThirdPerson.png)).
 - Play ([📷](.git_img/29_Play.png))! 🍻👍
