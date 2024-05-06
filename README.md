@@ -42,7 +42,7 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 - Click File > Send To > Daz To Unreal , configure the settings like the image ([📷](.git_img/01_DazToUnreal.png)) .
 - In Unreal Engine, after importing from Daz, your Content\DazToUnreal\Gen9 folder should have 5 files ([📷](.git_img/05_IKRetargeter_Created.png)).
 - **Rename as show in the image ([📷](.git_img/05_IKRetargeter_Created.png))**: Skeleton = SK_Gen9 , Skeletal Mesh = SKM_Gen9 , Physical Asset = SPA_Gen9 .
-- Go to Content\ControlRig\Characters\Mannequins\Animations folder, right-click ABP-Manny > Retarget Animations ([📷](.git_img/20_RetargetABP.png)).
+- Go to Content\ControlRig\Characters\Mannequins\Animations folder, right-click ABP_Manny > Retarget Animations ([📷](.git_img/20_RetargetABP.png)).
 - Select ([📷](.git_img/21_RetargetWnd.png)) : Source = SKM_Manny, Target = SKM_Gen9, Disable Auto Generate, Retarget = SRT_Gen9, chose all **Manny and MM** animations. Click Export Animations.
 - Create a new folder at Content\DazToUnreal\Gen9\Animations ([📷](.git_img/22_RetargetNewFolder.png)).
 - Add Manny in Search field and Gen9 in Replace field ([📷](.git_img/23_RetargetRename.png)).
