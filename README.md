@@ -34,8 +34,9 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 - Add Feature or Content Pack ([📷](.git_img/how_AddTPSPack1.png)) > Third Person Template ([📷](.git_img/how_AddTPSPack2.png)).
 - Open Content\ThirdPerson\Maps\ThirdPersonMap .<br/>
   Note: If the ThirdPersonMap map shows up completely blank, delete the PostProcessVolume.
-- Add [Control Rig Samples Pack](https://www.unrealengine.com/marketplace/en-US/product/control-rig-samples-pack) from Unreal Engine Marketplace/Epic Games Store to this project.<br/>
-  Optional: Check DazToUnreal Plugin settings ([📷](.git_img/00_DazToUnreal_Settings.png)).
+- Delete Content\ThirdPerson\Characters folder, force delete if asked.
+- Add [Control Rig Samples Pack](https://www.unrealengine.com/marketplace/en-US/product/control-rig-samples-pack) from Unreal Engine Marketplace/Epic Games Store to this project, overwrite files if asked.
+- Optional: Check DazToUnreal Plugin settings ([📷](.git_img/00_DazToUnreal_Settings.png)).
 - Open Daz Studio, empty scene, add Daz_Library\People\Genesis 9\Genesis 9 character.<br/>
   Optional: Add clothes from Daz_Library\People\Genesis 9\Clothing\Basic Clothes.
 - **Rename the Character to Gen9 ([📷](.git_img/how_RenameChar.png)).**
