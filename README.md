@@ -70,4 +70,11 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 
 Unreal Engine (https://www.unrealengine.com/en-US/download)<br/>
 Daz 3D (https://www.daz3d.com/technology/)<br/>
-David Vodhanel (https://github.com/David-Vodhanel/DazToUnreal/releases)<br/>
+David Vodhanel (https://github.com/David-Vodhanel/DazToUnreal/releases)
+
+## License
+
+@Unlicensed - Free for everyone and any use.
+
+DarknessFX @ https://dfx.lv | Twitter: @DrkFX<br/>
+https://github.com/DarknessFX/IKRetarget_DazG9_UE5
