@@ -61,7 +61,7 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 
 - Because Manny from ThirdPerson template have less info in the IKRig, I opted to use the more recent Manny from Control Rig Samples Pack [📷](.git_img/02_Manny_diff.png).<br/>
 - I edited Manny IKRig (now renamed to Content\DazToUnreal\SIK_Manny) adding Pelvis and Neck chain targets, changed Head to just Head [📷](.git_img/03_SIK_Manny.png).<br/>
-- After imported Daz character I use Create IK Retargeter with SKM_Manny source mesh [📷](.git_img/03_SIK_Manny.png).<br/>
+- After imported Daz character I use Create IK Retargeter with SKM_Manny source mesh [📷](.git_img/04_Create_IKRetargeter.png).<br/>
 - SIK_Gen9 edited: Sort Chains [📷](.git_img/06_SortChains.png), change Head chain from Neck1>Neck2>Head to just Head [📷](.git_img/07_HeadChain.png), add missing LeftHandIK chain [📷](.git_img/08_IKHandLChain.png) [📷](.git_img/09_IKHandLChainWnd.png), add Pelvis and Neck (Neck1>Neck2) chains [📷](.git_img/10_NeckAndHead.png).<br/>
 - SRT_Gen9: Offset target X by 90 [📷](.git_img/11_OffsetTarget.png), check and set Chain Mappings with Head, Neck, Pelvis, LeftHandIK [📷](.git_img/12_LeftHandkIK.png), Reset All [📷](.git_img/14_ResetAll.png), Root > Align All Bones [📷](.git_img/15_AlignAllBones.png), Reset Feet [📷](.git_img/16_ResetFeet.png).<br/>
 - Now because the spine, neck and head was bobbing, I made some small adjustments: Spine Rotation Alpha to 0.65 [📷](.git_img/17_SpineRotAlpha.png), Head Rotation Alpha to 0.5 [📷](.git_img/18_HeadRotAlpha.png), Neck disabled FK [📷](.git_img/19_HeadRotAlpha.png).<br/>
