@@ -22,8 +22,8 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 <sub>Ctrl+LeftClick 📷 for screenshots.</sub>
 
 ## Requirements
-- Unreal Engine 5.4.1 (https://www.unrealengine.com/en-US/download)
-- Daz 3D 4.22 (https://www.daz3d.com/technology/)<br/>
+- Unreal Engine 5.4.4 (https://www.unrealengine.com/en-US/download)
+- Daz 3D 4.23 (https://www.daz3d.com/technology/)<br/>
   Optional: Get free Daz packs from Daz Shop (https://www.daz3d.com/shop#filter_compat_figures=Genesis%209&filter_vendor=Daz%20Originals&order=price^-1&filtered=1)
 - DazToUnreal Plugin (https://github.com/David-Vodhanel/DazToUnreal/releases)<br/>
   Note: Inside DazToUnreal.Zip plugin there is also an updated version of DazToUnreal Bridge in UE_5.4\DazToUnreal\Resource\dzunrealbridge.dll , I recommend to use this DLL version in Daz too.
