@@ -12,6 +12,23 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
+# v2.0
+
+## About
+Originally this repo exist to share IKRig and IKRetarget for Daz3D Genesis 9 characteres, I [posted here](https://x.com/DrkFX/status/1787472067538903442) 
+about successfully importing and using Gen9 with UE5, that started a conversation about why the UE5 auto-retargeter failed, so I shared everything 
+here (old repo name IKRetarget_DazG9_UE5 , May/2024), details of the older version follows below at [v1.0](#v10) section.
+
+Now, Oct/2024, I had to work more with Daz3D Genesis 9 characteres and I ported UE5 ControlRig (from ControlRigs Example project) to Gen9 Skeleton 
+and also expanded the ControlRig auto-generating Morph Controls from SkeletalMesh Morph Targets. Both new files, SCR_Gen9 and SCR_MorphTargets are 
+essential tools to animate inside the engine.
+
+> [!IMPORTANT]  
+> Get the full project at [Releases Page](https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit/releases),
+> repo is missing SK_Gen9 and SKM_Gen9 because of file sizes.
+
+# v1.0
+
 ## About
 Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9 characteres to Unreal Engine 5.4.1 .
 
@@ -30,7 +47,7 @@ Sample project with IKRig and IKRetarget assets to help retarget Daz3D Genesis 9
 
 ## How To Use
 
-- Download this project ([releases](https://github.com/DarknessFX/IKRetarget_DazG9_UE5/releases)), unzip and open in Unreal Engine.
+- Download this project ([releases](https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit/releases)), unzip and open in Unreal Engine.
 - Add Feature or Content Pack ([📷](.git_img/how_AddTPSPack1.png)) > Third Person Template ([📷](.git_img/how_AddTPSPack2.png)).
 - Open Content\ThirdPerson\Maps\ThirdPersonMap .<br/>
   Note: If the ThirdPersonMap map shows up completely blank, delete the PostProcessVolume.
