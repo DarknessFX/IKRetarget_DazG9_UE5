@@ -12,6 +12,8 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
+<img src="https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit/blob/c4d3f54f09473b16b07c7c4d7feb4deb334069b5/.git_img/Gen9_ControlRig.png" width="640px" /> <br/>
+
 # v2.0
 
 ## About
@@ -26,6 +28,8 @@ essential tools to animate inside the engine.
 > [!IMPORTANT]  
 > Get the full project at [Releases Page](https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit/releases),
 > repo is missing SK_Gen9 and SKM_Gen9 because of file sizes.
+
+<img src="https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit/blob/77947587817cfb4d94b460e4df1e57985fc20c46/.git_img/banner.png" width="640px" /> <br/>
 
 # v1.0
 
