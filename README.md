@@ -98,4 +98,4 @@ David Vodhanel (https://github.com/David-Vodhanel/DazToUnreal/releases)
 @Unlicensed - Free for everyone and any use.
 
 DarknessFX @ https://dfx.lv | Twitter: @DrkFX<br/>
-https://github.com/DarknessFX/IKRetarget_DazG9_UE5
+https://github.com/DarknessFX/Daz3D_Gen9_UE5_Toolkit
